@@ -6,5 +6,7 @@ add_subdirectory(day1p1)
 add_subdirectory(day1p2)
 add_subdirectory(day2p1)
 add_subdirectory(day2p2)
+add_subdirectory(day3p1)
+
 
 
