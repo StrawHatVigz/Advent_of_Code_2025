@@ -8,7 +8,4 @@ add_subdirectory(day2p1)
 add_subdirectory(day2p2)
 add_subdirectory(day3p1)
 add_subdirectory(day3p2)
-
-
-
-
+add_subdirectory(day4p1)
