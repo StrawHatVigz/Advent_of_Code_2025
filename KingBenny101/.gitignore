@@ -4,3 +4,18 @@ build/
 */*.exe
 */*.ilk
 */*.pdb
+# Ignore common binary and compiled artifacts
+**/*.o
+**/*.obj
+**/*.a
+**/*.so
+**/*.dylib
+**/*.dll
+**/*.out
+**/*.elf
+**/*.bin
+**/*.exe
+**/bin/
+**/lib/
+# Ignore per-day built executables (e.g. day12p1/day12p1)
+day*/day*
